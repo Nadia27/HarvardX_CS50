@@ -1,6 +1,6 @@
 // Encrypts messages using Caesar's cipher
 // Nadia Abby
-// Problem Set 2
+// Week 1 Problem Set 2
 #include <cs50.h>
 #include <ctype.h> // allows usage of isalpha()
 #include <stdio.h>

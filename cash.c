@@ -1,6 +1,6 @@
 // Cash: calculates the minimum number of coins required to give a user change.
 // Nadia Abby
-// Problem Set 1
+//Week 1 Problem Set 1
 #include <cs50.h>
 #include <stdio.h>
 #include <math.h>

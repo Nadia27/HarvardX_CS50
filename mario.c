@@ -1,7 +1,7 @@
 
 // Creates half Mario pyramid
 // Nadia Abby
-// Problem Set 1
+// Week 1 Problem Set 1
 
 #include <cs50.h>
 #include <stdio.h>
